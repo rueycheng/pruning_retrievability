@@ -2,9 +2,16 @@
 
 A series of analyses over the retrievability of pruned/optimized indexes is made available in this repository.  For further information regarding the scope of this research and the experimental design, consult this paper:
 
-> Ruey-Cheng Chen, Leif Azzopardi, and Falk Scholer. 2017. An Empirical Analysis of Pruning Techniques. In Proceedings of CIKM '17, to appear.
-
-If you use the code in your research project, please cite the paper.
+```
+@inproceedings{chen_retrievability_2017,
+ author = {Chen, Ruey-Cheng and Azzopardi, Leif and Scholer, Falk},
+ title = {An Empirical Analysis of Pruning Techniques: Performance, Retrievability and Bias},
+ booktitle = {Proceedings of {CIKM} '17},
+ year = {2017},
+ pages = {2023--2026},
+ publisher = {ACM}
+} 
+```
 
 ## Get Started ##
 
