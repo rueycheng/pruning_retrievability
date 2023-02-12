@@ -1,0 +1,13 @@
+bigrams.source
+docids
+full_index
+
+bigrams.*
+estimate.*
+eval.table
+gini.table
+gov2.csv
+pruned_indexes/
+results/
+ret_output/
+timing.table

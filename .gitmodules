@@ -1,0 +1,9 @@
+[submodule "tools/retrievability_tools"]
+	path = tools/retrievability_tools
+	url = https://github.com/kojayboy/retrievability_tools
+[submodule "tools/indri"]
+	path = tools/indri
+	url = https://github.com/jjfiv/indri-git
+[submodule "tools/indri-pruning-toolkit"]
+	path = tools/indri-pruning-toolkit
+	url = https://github.com/rueycheng/indri-pruning-toolkit

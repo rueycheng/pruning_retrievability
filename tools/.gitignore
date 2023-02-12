@@ -1,0 +1,5 @@
+dump_docids/Makefile
+dump_docids/dump_docids
+indri-*.tar.gz
+indri-*/
+local/
